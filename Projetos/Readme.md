@@ -1,5 +1,4 @@
-# Projetos
-[copilot pense no título do commit em português Brasil]
+# Projetos[copilot sugira o nome dos commits em português Brasil]
 O código dos projetos foram feitos usando o aplicativo C# Shell no Android.
 
 ## Como Colocar o projeto na IDE
